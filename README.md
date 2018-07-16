@@ -7,8 +7,8 @@ Php rest api to send SMS
 1. create an account on https://www.skebby.it/
 2. associate your phone number ("tel") in skebby platform
 Download the two PHP files 
-3. Update Skebby credentials (username and password, used for login)
-4. Create your "secret API" code
+3. Update Skebby credentials (username and password, used for login) in sendsmsapi.php in rows 37, 38
+4. Create your "secret API" code  in sendsmsapi.php in rows 8
 5. Upload on your server.
 
 # How to use it
