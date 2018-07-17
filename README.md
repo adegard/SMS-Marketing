@@ -22,5 +22,10 @@ https://www.mysite.com/sendsmsapi.php?APIKEY=FDSJHFDI7438JJJHK&SENDNAME=Paul&TEL
 
 Enjoy!
 
+# Contribution
+http://simplestipsandtricks.blogspot.com/
 
-PS: you can use it in association with Tagui automation to create marketing automation sequences.
+# How to use it with RPA (Robotic Process Automation)
+
+you can use it in association with Tagui automation to create marketing automation sequences.
+See an example in this post:http://simplestipsandtricks.blogspot.com/2018/07/auto-responder-bot-for-subitoit-or.html
