@@ -28,4 +28,7 @@ http://simplestipsandtricks.blogspot.com/
 # How to use it with RPA (Robotic Process Automation)
 
 you can use it in association with Tagui automation to create marketing automation sequences.
-See an example in this post:http://simplestipsandtricks.blogspot.com/2018/07/auto-responder-bot-for-subitoit-or.html
+See an explaination in this post:http://simplestipsandtricks.blogspot.com/2018/07/auto-responder-bot-for-subitoit-or.html
+
+<div class="separator" style="clear: both; text-align: center;">
+<iframe width="520" height="340" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/i8idAuWc7w0/0.jpg" src="https://www.youtube.com/embed/i8idAuWc7w0?feature=player_embedded" frameborder="0" allowfullscreen></iframe></div>
