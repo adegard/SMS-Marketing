@@ -32,8 +32,8 @@ else
 	$charset = 'UTF-8';	// Collect data for SMS
 
 
-	// IMPORTANTE:
-	// INSERISCI QUI LE TUE CREDENZIALI SKEBBY
+	// IMPORTANT:
+	// INSERT HERE SKEBBY CREDENTIALS
 	define('SKEBBY_USERNAME','myusername');  //change with your credentials
 	define('SKEBBY_PASSWORD','mypassword'); //change with your credentials
 
