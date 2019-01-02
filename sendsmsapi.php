@@ -1,6 +1,6 @@
 <?php
 
-/* SMS REST API TO AUTO-SEND EMAILS ~ @Arnaud DEGARDIN  - https://github.com/adegard/      */
+/* SMS REST API TO AUTO-SEND SMS ~ @Arnaud DEGARDIN  - https://github.com/adegard/      */
 
 	require('skebby-gw2.php');
 	
@@ -22,7 +22,7 @@ else
 ///////////////// SEND  SMS ///////////////
 //       https://***server folder ***/sendsmsapi.php?APIKEY=***YOUR API***&SENDNAME=***NAME***&TEL=***NUMBER***
 //i.e. :
-//		 https://www.mysite.com/sendsmsapi.php?APIKEY=FDSJHFDI7438JJJHK&SENDNAME=Paul&TEL=3901228756
+//		 https://www.mysite.com/sendsmsapi.php?APIKEY=SSDHFDI7438JJJHK&SENDNAME=Paul&TEL=3901228756
 
 	$method = 'classic';
 	$recipients ='39'.$tel;
