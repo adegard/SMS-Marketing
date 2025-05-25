@@ -1,3 +1,4 @@
+[ PROJECT NO MORE USED ! ]
 # SMS-Marketing
 Php rest api to send SMS 
 
@@ -19,14 +20,3 @@ https://***serverfolder***/sendsmsapi.php?APIKEY=***YOURAPIKEY***&SENDNAME=***NA
 i.e. :
 
 https://www.mysite.com/sendsmsapi.php?APIKEY=FDSJHFDI7438JJJHK&SENDNAME=Paul&TEL=3901228756
-
-Enjoy!
-
-# Contribution
-http://simplestipsandtricks.blogspot.com/
-
-# How to use it with RPA (Robotic Process Automation)
-
-you can use it in RPA association (ie with Tagui, or autohotkey...) to create autonomous SMS-marketing sequences.
-See an example in this post:http://simplestipsandtricks.blogspot.com/2018/07/auto-responder-bot-for-subitoit-or.html
-
