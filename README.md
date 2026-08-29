@@ -20,3 +20,7 @@ https://***serverfolder***/sendsmsapi.php?APIKEY=***YOURAPIKEY***&SENDNAME=***NA
 i.e. :
 
 https://www.mysite.com/sendsmsapi.php?APIKEY=FDSJHFDI7438JJJHK&SENDNAME=Paul&TEL=3901228756
+
+---
+
+For an overview of all my other projects, see https://adegard.github.io/blog/
